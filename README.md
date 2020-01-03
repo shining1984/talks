@@ -1,4 +1,11 @@
-# 史宁宁（知乎ID:小乖他爹，CSDN ID：snsn1984）交流日程及PPT下载
+# 史宁宁交流日程及PPT下载
+
+## 史宁宁 Shi Ningning
+
+[知乎ID：小乖他爹] (https://www.zhihu.com/people/shiningning)
+[CSDN ID：snsn1984] (https://blog.csdn.net/snsn1984)
+[Bilibili ID：小乖他爹-知乎 ](https://space.bilibili.com/46326151)
+[Linkedin：史宁宁](https://www.linkedin.com/in/shi-ningning-a456b061/)
 
 ## 2020
 
