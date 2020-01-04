@@ -31,4 +31,4 @@
 
 -7月28日：杭州  HelloLLVM  《[浅谈LLVM的后端](https://github.com/shining1984/talks/tree/master/20180728Hangzhou-%E3%80%8ABrief%20Intro%20to%20LLVM%20Backend%E3%80%8B-HelloLLVM)》
 
--7月1日：上海  HelloLLVM  《[程序员的人生](https://github.com/shining1984/talks/tree/master/20180701Shanghai-%E3%80%8AThe%20Life%20of%20Programmer%E3%80%8B-HelloLLVM)》
+-7月1日：上海  HelloLLVM  《[程序员的人生](https://github.com/shining1984/talks/tree/master/20180701Shanghai-%E3%80%8AThe%20Life%20of%20Programmer%E3%80%8B-HelloLLVM)》[audio](https://www.bilibili.com/video/av82022623/)
