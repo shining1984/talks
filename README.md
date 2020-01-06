@@ -18,7 +18,7 @@
 
 -12月18日：北京 PLCT开放日 《[PLCT与方舟编译器社区建设](https://github.com/shining1984/talks/tree/master/20191218Beijing-%E3%80%8AThe%20PLCT%20Lab%20and%20the%20Building%20of%20ARK%20Compiler%20Community%E3%80%8B-PLCT%20Lab%20Open%20Day(2019))》[video](https://www.bilibili.com/video/av80842985)
 
--11月19日：北京  绿色软件联盟开发者大会  《[拥抱方舟开源编译器](https://github.com/shining1984/talks/tree/master/20191119Beijing-%E3%80%8AEmbrace%20the%20ARK%20Compiler%E3%80%8B-SGADC2019)》
+-11月19日：北京  绿色软件联盟开发者大会  《[拥抱方舟开源编译器](https://github.com/shining1984/talks/tree/master/20191119Beijing-%E3%80%8AEmbrace%20the%20ARK%20Compiler%E3%80%8B-SGADC2019)》[video](https://www.bilibili.com/video/av82336915)
 
 -9月8日：上海  方舟技术沙龙  《[浅谈方舟编译器](https://github.com/shining1984/talks/tree/master/20190908Shanghai-%E3%80%8ABrief%20Intro%20to%20ARK%20Compiler%E3%80%8B-ARK%20Compiler%20Technical%20Salon)》[video](https://www.bilibili.com/video/av78498098)
 
