@@ -24,7 +24,6 @@
 
 -6月11日：郑州  XXX大学  《[LLVM基础及Pass介绍](https://github.com/shining1984/talks/tree/master/20190611Zhengzhou-%E3%80%8ALLVM%20Basis%20and%20LLVM%20Pass%E3%80%8B-XXXUniversity)》
 
-
 ## 2018
 
 -12月8日：北京 OSDT2018  《[浅谈LLVM的异常处理](https://github.com/shining1984/talks/tree/master/20181208Beijing-%E3%80%8ABrief%20Intro%20to%20LLVM%20EH%E3%80%8B-OSDT2018)》
@@ -32,3 +31,23 @@
 -7月28日：杭州  HelloLLVM  《[浅谈LLVM的后端](https://github.com/shining1984/talks/tree/master/20180728Hangzhou-%E3%80%8ABrief%20Intro%20to%20LLVM%20Backend%E3%80%8B-HelloLLVM)》[audio](https://www.bilibili.com/audio/au1234394?type=1)
 
 -7月1日：上海  HelloLLVM  《[程序员的人生](https://github.com/shining1984/talks/tree/master/20180701Shanghai-%E3%80%8AThe%20Life%20of%20Programmer%E3%80%8B-HelloLLVM)》[audio](https://www.bilibili.com/video/av82022623/)
+
+
+## Bilibili短视频
+
+-01 方舟编译器的开源进程 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/01-The%20Open%20Source%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/01-The%20Open%20Source%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av78179578)
+
+-02 方舟编译器的应用场景 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/02-The%20Application%20Scene%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/02-The%20Application%20Scene%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av78716751)
+
+-03 方舟编译器的架构 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/03-The%20Framework%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/03-The%20Framework%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av79177912)
+
+-04 方舟编译器Toy Runtime编译 [github](https://github.com/isrc-cas/pacific) [gitee](https://gitee.com/openarkcompiler-incubator/pacific) [video](https://www.bilibili.com/video/av79328126)
+
+-05 什么样的人适合学习方舟编译器 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/05-Which%20Kind%20of%20People%20fit%20to%20Learn%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/05-Which%20Kind%20of%20People%20fit%20to%20Learn%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av80093126)
+
+-06 我们为什么关注方舟编译器 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/06-Why%20We%20Focus%20on%20The%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/06-Why%20We%20Focus%20on%20The%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av80995301/)
+
+-07 方舟编译器技术沙龙（杭州站） [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/07-ARK%20Compiler%20Technical%20Salon.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/07-ARK%20Compiler%20Technical%20Salon.pdf) [video](https://www.bilibili.com/video/av82016523/)
+
+-08 方舟编译器孵化器 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/08-The%20Incubator%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/08-The%20Incubator%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av82795734)
+ 
