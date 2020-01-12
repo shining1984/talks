@@ -51,3 +51,4 @@
 
 -08 方舟编译器孵化器 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/08-The%20Incubator%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/08-The%20Incubator%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av82795734)
  
+-09 方舟编译器社区Roadmap解读 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/09-Reading%20the%20Roadmap%20of%20Ark%20Compiler%20Community.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/09-Reading%20the%20Roadmap%20of%20Ark%20Compiler%20Community.pdf) [video](https://www.bilibili.com/video/av83081537)
