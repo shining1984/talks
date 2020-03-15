@@ -55,7 +55,15 @@
 
 -10 Maple Programming Language [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/10-Maple%20Programming%20System.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/10-Maple%20Programming%20System.pdf) [video](https://www.bilibili.com/video/av83504674/)
 
+-11 方舟编译器的构建系统 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/11-The%20Building%20System%20of%20Ark%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/11-The%20Building%20System%20of%20Ark%20Compiler.pdf) [video](https://www.bilibili.com/video/av89340361)
 
+-12 方舟编译器文档介绍 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/12-The%20Doc%20Intro%20of%20the%20Arc%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/12-The%20Doc%20Intro%20of%20the%20Arc%20Compiler.pdf) [video](https://www.bilibili.com/video/av91028763)
+
+-13 方舟编译器的代码静态检查 [PPT]() [PDF]() [video](https://www.bilibili.com/video/av92837763)
+
+-14 方舟编译器新增文档介绍 [PPT]() [PDF]() [video](https://www.bilibili.com/video/av94670362)
+
+-15 方舟编译器clang-tidy检查规则解析 [PPT]() [PDF]() [video](https://www.bilibili.com/video/av96166240)
 ---------------------
 
 G01 木兰编程语言 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pdf) [video](https://www.bilibili.com/video/av83861946/)
