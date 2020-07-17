@@ -78,3 +78,7 @@
 G01 木兰编程语言 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pdf) [video](https://www.bilibili.com/video/av83861946/)
 
 G02 Verona语言介绍 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G02-Verona%20Language.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G02-Verona%20Language.pdf) [video](https://www.bilibili.com/video/av84584684/)
+
+G03 Clang的RISC-V支持 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G03-The%20RISC-V%20Supporting%20of%20Clang.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G03-The%20RISC-V%20Supporting%20of%20Clang.pdf) [video](https://www.bilibili.com/video/BV1b7411j7S6)
+
+G04 小乖他爹带你看P40发布会 [video](https://www.bilibili.com/video/BV15Q4y1M7En)
