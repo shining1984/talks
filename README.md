@@ -65,6 +65,14 @@
 
 -15 方舟编译器clang-tidy检查规则解析 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/15-The%20clang-tidy%20Rules%20of%20Arc%20Compiler.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/15-The%20clang-tidy%20Rules%20of%20Arc%20Compiler.pdf) [video](https://www.bilibili.com/video/av96166240)
 
+-16 方舟编译器测试框架 [video](https://www.bilibili.com/video/BV1RE411c73t)
+
+-17 方舟编译器开源协议-木兰协议 [video](https://www.bilibili.com/video/BV1RE411c73t)
+
+-18 方舟编译器的前端和后端 [video](https://www.bilibili.com/video/BV1Da4y1t73g)
+
+-19 再谈方舟编译器的前端 [video](https://www.bilibili.com/video/BV1ak4y1r76s)
+
 ---------------------
 
 G01 木兰编程语言 [PPT](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pptx) [PDF](https://github.com/shining1984/talks/blob/master/bilibili-video-slides/G01-The%20Mulan%20Programming%20Language.pdf) [video](https://www.bilibili.com/video/av83861946/)
