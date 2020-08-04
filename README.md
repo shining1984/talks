@@ -2,6 +2,8 @@
 
 ## 史宁宁 Shi Ningning
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shining1984)](https://github.com/anuraghazra/github-readme-stats)
+
 [知乎ID：小乖他爹](https://www.zhihu.com/people/shiningning)
 
 [CSDN ID：snsn1984](https://blog.csdn.net/snsn1984)
