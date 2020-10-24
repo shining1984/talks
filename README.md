@@ -14,6 +14,8 @@
 
 ## 2020
 
+-10月24日：杭州  HelloGCC  《[ART OptimizingCompiler简析](https://github.com/shining1984/talks/tree/master/20201024Hangzhou-%E3%80%8AART%20OptimizingCompiler%E7%AE%80%E6%9E%90%E3%80%8B)》
+
 -1月3日：杭州  方舟技术沙龙 《[PLCT踏脚石计划：为方舟社区添砖加瓦](https://github.com/shining1984/talks/tree/master/20200103Hangzhou-%E3%80%8AStepping-stone%20Plan%20of%20PLCT%20Lab%E3%80%8B-ARK%20Compiler%20Technical%20Salon)》
 
 ## 2019
