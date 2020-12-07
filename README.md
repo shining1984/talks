@@ -14,7 +14,7 @@
 
 ## 2020
 
--12月4日：线上  2020年PLCT开放日  《[方舟编译器与Android Runtime](https://github.com/shining1984/talks/tree/master/20201204Online-%E3%80%8AOpenArkCompiler%26%26ART%E3%80%8B)》
+-12月4日：线上  2020年PLCT开放日  《[方舟编译器与Android Runtime](https://github.com/shining1984/talks/tree/master/20201204Online-%E3%80%8AOpenArkCompiler%26%26ART%E3%80%8B)》 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=4)
 
 -10月24日：杭州  HelloGCC  《[ART OptimizingCompiler简析](https://github.com/shining1984/talks/tree/master/20201024Hangzhou-%E3%80%8AART%20OptimizingCompiler%E7%AE%80%E6%9E%90%E3%80%8B)》 [video](https://www.bilibili.com/video/BV17A411E7PS?p=2)
 
