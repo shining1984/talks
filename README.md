@@ -14,7 +14,7 @@
 
 ## 2021
 
--12月17日：线上 2021年PLCT开放日《[OpenJDK for RV32G的移植与探索]()》[video](https://www.bilibili.com/video/BV1c3411x7HC)
+-12月17日：线上 2021年PLCT开放日《[OpenJDK for RV32G的移植与探索](https://github.com/shining1984/talks/tree/master/20211217Online-%E3%80%8AOpenJDK%20for%20RV32G%E7%9A%84%E7%A7%BB%E6%A4%8D%E4%B8%8E%E6%8E%A2%E7%B4%A2%E3%80%8B)》[video](https://www.bilibili.com/video/BV1c3411x7HC)
 
 -8月29日：线上  OSDT·方舟编译器开源两周年活动《[PLCT实验室在方舟编译器社区的贡献](https://github.com/shining1984/talks/tree/master/20210829Online-%E3%80%8AThe%20PLCT%20Contributions%20in%20OpenArkCompiler%E3%80%8B)》  [video](https://www.bilibili.com/video/BV18A411c73i)
 
