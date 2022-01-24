@@ -12,6 +12,10 @@
 
 [Linkedin：史宁宁](https://www.linkedin.com/in/shi-ningning-a456b061/)
 
+## 2022
+
+-1月23日：线上 OSDT 《[聊聊我最近读的编译器编译器后端论文](https://github.com/shining1984/talks/tree/master/20220123Online-%E3%80%8A%E8%81%8A%E8%81%8A%E6%88%91%E6%9C%80%E8%BF%91%E8%AF%BB%E7%9A%84%E7%BC%96%E8%AF%91%E5%99%A8%E7%BC%96%E8%AF%91%E5%99%A8%E5%90%8E%E7%AB%AF%E8%AE%BA%E6%96%87%E3%80%8B)》
+
 ## 2021
 
 -12月17日：线上 2021年PLCT开放日《[OpenJDK for RV32G的移植与探索](https://github.com/shining1984/talks/tree/master/20211217Online-%E3%80%8AOpenJDK%20for%20RV32G%E7%9A%84%E7%A7%BB%E6%A4%8D%E4%B8%8E%E6%8E%A2%E7%B4%A2%E3%80%8B)》[video](https://www.bilibili.com/video/BV1c3411x7HC)
