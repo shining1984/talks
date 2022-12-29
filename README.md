@@ -14,7 +14,7 @@
 
 ## 2022
 
--12月9日：线上 2022年PLCT开放日  《[OpenJDK for RV32G的解释器与C2]()》  [video](https://www.bilibili.com/video/BV1oV4y1F75o/?spm_id_from=333.999.0.0&vd_source=b6c3b593c5db18ebf1c96ba6d175e847)
+-12月9日：线上 2022年PLCT开放日  《[OpenJDK for RV32G的解释器与C2](https://github.com/shining1984/talks/tree/master/20221209Online-%E3%80%8AOpenJDK%20for%20RV32G%E7%9A%84%E8%A7%A3%E9%87%8A%E5%99%A8%E4%B8%8EC2%E3%80%8B)》  [video](https://www.bilibili.com/video/BV1oV4y1F75o/?spm_id_from=333.999.0.0&vd_source=b6c3b593c5db18ebf1c96ba6d175e847)
 
 -8月25日：线上 第二届RISC-V中国峰会 《[OpenJDK的RV32G支持](https://github.com/shining1984/talks/tree/master/20220825Online-%E3%80%8AOpenJDK%E7%9A%84RV32G%E6%94%AF%E6%8C%81%E3%80%8B)》  [video](https://www.bilibili.com/video/BV1Ve411u7ms/?spm_id_from=333.999.0.0&vd_source=b6c3b593c5db18ebf1c96ba6d175e847)
 
