@@ -14,7 +14,9 @@
 
 ## 2023
 
--5月10日：南京 开源之下（南航）  《[IT企业职业生涯发展规划](https://github.com/shining1984/talks/tree/master/20230510Nanjing-%E3%80%8AIT%20%E4%BC%81%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92V1.1%E3%80%8B-%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F)》
+-7月15日：线上 南盘江计划  《[基于Clang的LLVM前端简析](https://github.com/shining1984/talks/tree/master/20230715Online-%E3%80%8A%E5%9F%BA%E4%BA%8EClang%E7%9A%84LLVM%E5%89%8D%E7%AB%AF%E7%AE%80%E6%9E%90%E3%80%8B-%E5%8D%97%E7%9B%98%E6%B1%9F%E8%AE%A1%E5%88%92)》
+
+-5月10日：南京 开源之夏（南航）  《[IT企业职业生涯发展规划](https://github.com/shining1984/talks/tree/master/20230510Nanjing-%E3%80%8AIT%20%E4%BC%81%E4%B8%9A%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92V1.1%E3%80%8B-%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F)》
 
 -4月22日：线上 南盘江计划  《[LLVM架构简析](https://github.com/shining1984/talks/tree/master/20230422Online-%E3%80%8ALLVM%E6%9E%B6%E6%9E%84%E7%AE%80%E6%9E%90%E3%80%8B-%E5%8D%97%E7%9B%98%E6%B1%9F%E8%AE%A1%E5%88%92)》
 
