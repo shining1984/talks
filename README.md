@@ -8,7 +8,7 @@
 
 [CSDN ID：snsn1984    现改为：编译船夫](https://blog.csdn.net/snsn1984)
 
-[Bilibili ID：小乖他爹-知乎 ](https://space.bilibili.com/46326151)
+[Bilibili ID：小乖他爹-知乎    现改为：编译船夫](https://space.bilibili.com/46326151)
 
 [Linkedin：史宁宁](https://www.linkedin.com/in/shi-ningning-a456b061/)
 
