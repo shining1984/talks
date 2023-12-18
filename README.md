@@ -13,6 +13,7 @@
 [Linkedin：史宁宁](https://www.linkedin.com/in/shi-ningning-a456b061/)
 
 ## 2023
+-12月15日：线上 PLCT实验室开放日 《[围观ART for RV的移植过程](https://github.com/shining1984/talks/tree/master/20231215Online-%E3%80%8A%E5%9B%B4%E8%A7%82ART%20for%20RV%E7%9A%84%E7%A7%BB%E6%A4%8D%E8%BF%87%E7%A8%8B%E3%80%8B)》
 
 -8月23日：北京 方舟四周年活动 《[开源方舟编译器的发展历程回顾](https://github.com/shining1984/talks/commit/8a36729587055e4e8aedce5f516fc2bc9ed6b698)》  [video]()
 
