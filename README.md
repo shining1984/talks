@@ -6,7 +6,7 @@
 
 [知乎ID：小乖他爹    现改为：编译船夫](https://www.zhihu.com/people/shiningning)
 
-[CSDN ID：snsn1984    现改为：编译船夫](https://blog.csdn.net/snsn1984)
+[CSDN ID：snsn1984](https://blog.csdn.net/snsn1984)
 
 [Bilibili ID：小乖他爹-知乎    现改为：编译船夫](https://space.bilibili.com/46326151)
 
