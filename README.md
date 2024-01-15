@@ -14,7 +14,7 @@
 
 ## 2024
 
--1月13日：线上 OSDT2023年大会 《[LLVM  CodeGen代码详解]()》  [video](https://www.bilibili.com/video/BV1pg4y1m7mo/?spm_id_from=333.1365.list.card_archive.click&vd_source=b6c3b593c5db18ebf1c96ba6d175e847)
+-1月13日：线上 OSDT2023年大会 《[LLVM  CodeGen代码详解](https://github.com/shining1984/talks/tree/master/20240113Online-%E3%80%8ALLVM%20%20CodeGen%E4%BB%A3%E7%A0%81%E8%AF%A6%E8%A7%A3%E3%80%8B-OSDT2023)》  [video](https://www.bilibili.com/video/BV1pg4y1m7mo/?spm_id_from=333.1365.list.card_archive.click&vd_source=b6c3b593c5db18ebf1c96ba6d175e847)
 
 ## 2023
 
